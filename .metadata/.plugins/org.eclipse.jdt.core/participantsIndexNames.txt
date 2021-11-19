@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\Ankit.Pandey\practice_workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2455911705.index
+\kafka-basics\src\main\resources
+C:\Users\Ankit.Pandey\practice_workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3496785540.index
+\kafka-streams-filter-tweets\src\main\java
+C:\Users\Ankit.Pandey\practice_workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1221405935.index
+\kafka-beginners-course\src\main\java
+C:\Users\Ankit.Pandey\practice_workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3736771749.index
+\kafka-beginners-course\src\main\java

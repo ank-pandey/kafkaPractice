@@ -1,0 +1,10 @@
+package com.test.kafka.tutorial2;
+
+public class TwitterProducer {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
