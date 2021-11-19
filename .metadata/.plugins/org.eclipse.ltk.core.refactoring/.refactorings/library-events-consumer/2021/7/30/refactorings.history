@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;LibraryEventConsumer.java&apos; to &apos;library-events-consumer/src/main/java/com.learnkafka.consumer&apos;&#x0D;&#x0A;- Original project: &apos;library-events-consumer&apos;&#x0D;&#x0A;- Destination element: &apos;library-events-consumer/src/main/java/com.learnkafka.consumer&apos;&#x0D;&#x0A;- Original element: &apos;com.learnkafka.consumer.LibraryEventConsumer.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.learnkafka.consumer" element1="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.learnkafka.consumer{LibraryEventConsumer.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1626603198150" units="1" version="1.0"/>
-</session>
